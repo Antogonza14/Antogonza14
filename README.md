@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Antogonza14
 
-- 👀 **Interests:** Data Science, Big Data, & Business Intelligence
-- 🌱 **Currently Learning:** Deepening my knowledge in Power BI and Python after completing my Master’s degree
+- 👀 **Interests:** Data Science, Big Data, & Business Intelligence , AI
+- 🌱 **Currently Learning:** Deepening my knowledge in Power BI, AI🤖 Python  after completing my Master’s degree
 - 💞️ **Looking to Collaborate On:** Anything data-related! Always open to exciting data projects.
 - 📫 **How to Reach Me:** Here on GitHub or on [LinkedIn](https://www.linkedin.com/in/antogonza14/) 
 - 😄 **Pronouns:** Antonio or Toni
